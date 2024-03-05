@@ -1,8 +1,8 @@
 ### Olá 👋
 
-📍Santos - SP - Brasil
-🗣️ PT-BR (nativo) | EN (fluente)
-🧑‍🎓 Estudo Análise e Desenvolvimento e Sistemas
+📍Santos - SP - Brasil\
+🗣️ PT-BR (nativo) | EN (fluente)\
+🧑‍🎓 Estudo Análise e Desenvolvimento e Sistemas\
 🏫 Faculdade de Tecnologia do Estado de São Paulo - Campus Rubens Lara
 
   ##
